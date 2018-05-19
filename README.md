@@ -1,2 +1,4 @@
-# Python
-Python Exercise
+科技享受人生，智能成就未来！
+只有不停的走，才有超越别人的可能！
+未来的世界是一个智能的世界，有对AI感兴趣的朋友，欢迎一起学习！
+我的博客https://blog.csdn.net/Muleung
